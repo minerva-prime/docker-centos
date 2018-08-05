@@ -14,4 +14,4 @@ COPY --from=Builder /usr/src/app/artifact /usr/local/bin/
 CMD [ "/usr/local/bin/artifact" ]
 ```
 
-Docker image location: <https://cloud.docker.com/swarm/minervaprime/repository/registry-1.docker.io/minervaprime/centos/general>
+Docker image location: <https://hub.docker.com/r/minervaprime/centos/>
